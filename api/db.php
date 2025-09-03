@@ -4,7 +4,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$dbname = "freight_db";
+$dbname = "core1";
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
